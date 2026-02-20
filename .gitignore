@@ -1,0 +1,7 @@
+@"
+data/
+*.csv
+venv/
+__pycache__/
+models/
+"@ | Out-File -Encoding utf8 .gitignore
